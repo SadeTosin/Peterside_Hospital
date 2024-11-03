@@ -11,7 +11,7 @@ With this model, Peterside Hospital can proactively identify individuals at a hi
 
 <hr>
 
-![My Image](assetx/img1.png)
+![My Image](hospital.png)
 
 <hr>
 
